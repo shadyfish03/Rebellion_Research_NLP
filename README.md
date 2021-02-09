@@ -1,0 +1,2 @@
+# Rebellion_Research_NLP
+In this repository you will find code for our capstone project "How to Predict Stock Movements Using NLP Techniques". The code has been adapted in the first 3 pairs to illustrate how to scrape the EDGAR webpage. However, the word2vec analysis and FinBERT analysis use as data the data uploaded in this repository. Get in touch with me if you have any questions or if you find any mistakes. 
